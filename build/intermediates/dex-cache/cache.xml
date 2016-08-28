@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_2cf9bfe4cc09cfeaaa2102328c4080cdf6326676\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_e97630e9b4f3528ebfec940980998c6de8f6ebaa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_387b82bc611d23360a5c8b802675096cebf70867\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_94e3e99bd2ebd6aecf8de19e0213fa89458cc228\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_bb4fd7e29feb8282cfcb6487c818856e566c9315\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_588f9f597f8d4df38a71628270c721875f0dd2de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_e032070d8df36ea6bba4accd9056baa19854dd93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_68637f8850e3c84a9370702d1b6639d9e4d75de5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_7c7ee8e00eaecfcc957a63dad8dfa289277c0ef3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_281db53c2e45539e3c9eb5a1c20f0448bd3eac55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_b5139b6c88622a29515960885649a4ddf307ca66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_ceccca1e8acebdf135efcb9bb072a1913ac37e1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_e83101e8c1456d05ad1e5bf258a6aa81a9d26913\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="556cf8820f8c3bd269d900e5bc2755d07568a885">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ecbdf3ea2686532573936b6c4c5563434f902398\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_9fc64ab1b9a13f68a8ada9366ff3e81f9038245e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_45cd755184f0946a786a77da2d3eebb379c3388b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_9d36052b3b5c17b9f0e4bfd14d93ce7b07363762\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_fee572b8c39dfeb7f541727845beda3d39510ac3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_64d82750d4b3bf155f37666cdd173593e2e147e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_3ca8febc136ba0da00c0fa43a85957bc26e9f0cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_01ec48ce98e5aded7bf530d0951e5e3e5eb3b72f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_81b70c8253ac2d232525e3e7aad78ce9c95404c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_43d0c78d719f29d6dffe3e2ab7781f2c34a1c710\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_a41a491a46b11dcebca38b568c8236a57ad4400d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_74f6cf20d102020ef38b292c828efa0797b756fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_0a4c3163b4ef743dcddbccedfb491e851e614f99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_b503390a1f8d002f6c5e88157ac2c654e7fba1cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_ba791a1b5a6f8e3906a3db68df3ac224069022e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_d4e6b6f5875619c7272f06ceee8603016bf77f77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_5d48d742251cd24a6de1ba5b0773e0d9a2275481\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_9a67eba303948331bf983d16dbee667f4bf94345\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_82b0f7ebf06e640e59d492d3a1e13aeeb9154556\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_ad277395de757518d3592fb2eee060c3f70613fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_7d80724ee2dbc504ab57e5cb57a67fd8fad246a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_8a1c9698f87a3a9f86a75cebf3f065361f556f6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_644166adebf7a1b59f5a84135f4ab51186617aa6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_7ae945d621d03943db6118827f2b1a7ec98aa6d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_fc8b56c8be0f316ef5666d37b3e1935c17da0c18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_4edb90672a15d8642a20a960d1a077da8399971a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_22297d78afe713cfae32ab3dde436adf5ab39bd9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_c4b445e0c73a243273cfd8f6d175a875ea3f169f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_0a2bdae6cbc23d9cd07732c0da5506ff9012a22f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_6565b3be024d9347589f5c99e0805c063862d18e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_52ffd61caf4a5d9bd0e1367bd9cff0805a7c7afa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7362d71fc9ccaa85a68d2808e7578052c05b5518">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0bf0eb804d973333a824ccd58b98a349f4902041\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_733793a2e6437444c6d8ad748914c94070069367\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_96828a37ea7209afcdb093facd5489a87e1a0f6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_ba228101bb84df8702f80b566dee1e36ce4098f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_8627692648c6381387a947f832a1565efcda9564\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_1a66003ba05fcb90efe7afd56b7926e801c3bf9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_fa20faae78a2a2d2d1ea5ea66618b5890ab49dbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c84e6a0776c14aaaa3550b59c5b0201c385e58a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_051a227519705fd15184f395e4ecdfc9b0df3485\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_b177bae96add2a759dde83466458ad9a1d6cbac6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_df9e2075c33ad2dbe95785c88b292cbf77d960cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_88a4f8484582e42b7e506b89e29e6bc76bbb215e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_2717a30bd6ba21f42f6590cc00139308887217fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\chemeleartcasi\AndroidStudioProjects\Cleanity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_d328e426cf2bbc61166518856febb6a6eac489b9\classes.dex" />
+    </item>
+
+</items>
